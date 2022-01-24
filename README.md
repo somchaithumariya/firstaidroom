@@ -1,4 +1,4 @@
-# FirstAID Banglad School
+# ระบบลงชื่อเข้าใช้ห้องพยาบาล รร.บ้านบางลาด จ.กำแพงเพชร
 Dev by Somchai's web code
 
 CR. by KruApiwat
